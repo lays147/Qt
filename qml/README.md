@@ -1,7 +1,10 @@
-#QML
+# QML Exemplo
 
-Aplicação usando Qt QML usada como exemplo em minha apresentação
-Qt: O seu toolkit para C++/Python com o verdadeiro write once deploy everywhere!
+Aplicação usando Qt QML usada como exemplo em minha apresentação sobre Qt
+Faça clone do repositório e abra o arquivo .pro no Qt Creator e faça o build.
 
-Application using Qt QML with an example in my presentation 
-Qt: Your toolkit for C++/Python with the real write once deploy everywhere.
+---
+# QML Example
+
+Application using Qt QML like an example in my presentation about Qt.
+To use, clone this repository and open the .pro file on QtCreator and start the build
