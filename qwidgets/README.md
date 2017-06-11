@@ -1,9 +1,9 @@
-#QWidgets
+# QWidgets Exemplo
 
-Aplicação usando Qt usada como exemplo em minha
-apresentação Qt: O seu toolkit para C++/Python com 
-o verdadeiro write once deploy everywhere!
+Aplicação usando QWidgets usada como exemplo em minha apresentação sobre Qt
+Faça clone do repositório e abra o arquivo .pro no Qt Creator e faça o build.
+---
+# QWidgets Example
 
-Application using Qt with an example in my presentation
-Qt: Your toolkit for C++/Python with the real write once
-deploy everywhere.
+Application using QWidgets like an example in my presentation about Qt.
+To use, clone this repository and open the .pro file on QtCreator and start the build
